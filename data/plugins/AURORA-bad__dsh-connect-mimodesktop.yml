@@ -1,5 +1,5 @@
-url: https://github.com/AURORA-bad/dsh-connect-MIMOdesktop
-name: AURORA-bad/dsh-connect-MIMOdesktop
+url: https://github.com/AURORA-bad/dsh-connect-mimodesktop
+name: AURORA-bad/dsh-connect-mimodesktop
 category: model
 description:
   en: 'Xiaomi MiMo models for DeepSeek Harness: reuses the MiMo desktop app login instead of an API key, with a local account pool, a quota capsule in the composer, and status/login/verify/doctor commands.'
